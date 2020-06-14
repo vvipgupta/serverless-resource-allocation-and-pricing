@@ -1,4 +1,4 @@
-# serverless-resource-allocation-and-pricing
+# Serverless Resource Allocation and Pricing
 
 ![Resource allocation and pricing for serverless](figs/diagram_user_cloud_black_box.png)
 
